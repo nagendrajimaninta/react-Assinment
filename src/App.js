@@ -13,6 +13,11 @@ const questions = [
     rightAnswer: "Russia"
   },
   {
+    question: "What is the largest country in the world?",
+    choices: ["Russia", "Canada", "United States"],
+    rightAnswer: "Russia"
+  },
+  {
     question: "What is the 100th digit of Pi?",
     choices: ["9", "4", "7"],
     rightAnswer: 9
